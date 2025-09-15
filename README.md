@@ -27,8 +27,6 @@ Click the button below to run the complete code on Google Colab. No setup requir
 2.  **Perform the Inversion Attack:** Start with random noise and query the model to slowly steal the features of the digit '3'.
 3.  **Succeed:** Watch as the model confidently identifies the generated noise as a '3', proving its memory has been stolen.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/l0renz02017/OWASP-Machine-Learning-Security-ml03-Model-Inversion-Attack/blob/main/demo.py)
-
 ## 🔍 What You Will See
 
 A successful run will produce a compelling visual result:
@@ -100,10 +98,10 @@ This project demonstrates **[ML03:2023](https://owasp.org/www-project-machine-le
 -   **`README.md`**: This file.
 
 ## 🏃‍♂️ How to Run
-1. Open Google Colab: Go to Google Colab.
-2. Create a New Notebook: Click File > New notebook.
-3. Run the Code: Copy the entire code block from demo.py and paste it into a single cell in your Colab notebook.
-4. Execute: Click the play (▶️) button or go to Runtime > Run all.
+1.  **Open Google Colab:** Go to [Google Colab](https://colab.research.google.com/).
+2.  **Create a New Notebook:** Click `File` > `New notebook`.
+3.  **Run the Code:** Copy the entire code block from [`demo.py`](demo.py) and paste it into a single cell in your Colab notebook.
+4.  **Execute:** Click the play (▶️) button or go to `Runtime` > `Run all`.
 
 ## 🔬 Related Work
 

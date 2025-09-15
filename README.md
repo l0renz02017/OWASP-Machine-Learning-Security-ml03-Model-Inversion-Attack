@@ -1,9 +1,5 @@
 # 🕵️ ML03:2023 Model Inversion Attack - Stealing Data from an AI's Memory Demo
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/l0renz02017/OWASP-Machine-Learning-Security-ml03-Model-Inversion-Attack/blob/main/demo.py)
-![OWASP](https://img.shields.io/badge/OWASP%20ML%20Top%2010-ML03:2023_Model_Inversion-%23bb0a1e?link=https://owasp.org/www-project-machine-learning-security-top-10/)
-![Related](https://img.shields.io/badge/See_Also-ML01_&_ML02-blue?link=https://github.com/l0renz02017/)
-
 **Demonstration of a privacy attack that reverse-engineers a machine learning model to reconstruct the confidential data it was trained on.**
 
 This repository demonstrates an **ML03:2023 Model Inversion Attack**, where an attacker with only query access to a model can steal sensitive features of its training data, effectively reading the model's "memory".

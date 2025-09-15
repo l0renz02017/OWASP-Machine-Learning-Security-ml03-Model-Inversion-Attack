@@ -66,11 +66,11 @@ The random noise is gradually transformed into a recognizable copy of the sensit
 🎯 Launching Model Inversion Attack...  
    Goal: Steal the features of digit '3' from the model's memory.  
    Step 0: Confidence for class 3 = 7.22%  
-   Step 200: Confidence for class 3 = 100.00% 
+   Step 200: Confidence for class 3 = 100.00%   
    Step 400: Confidence for class 3 = 100.00%  
    Step 600: Confidence for class 3 = 100.00%  
    Step 800: Confidence for class 3 = 100.00%  
-   Step 1000: Confidence for class 3 = 100.00%  
+   Step 1000: Confidence for class 3 = 100.00%   
 
 ✅ Attack Complete! Final confidence for class '3': 100.00%  
 

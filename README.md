@@ -35,7 +35,7 @@ The visualization will show two images:
 1.  **The Inverted Image:** A recognizable digit '3' that was **reverse-engineered from the model's parameters**.
 2.  **A Real Training Image:** An actual '3' from the dataset for comparison.
 
-The model will be over **100% confident** that the inverted image is genuine, proving the attack successfully extracted the "idea" of a '3' from the model's memory.
+The model will be **100% confident** that the inverted image is genuine, proving the attack successfully extracted the "idea" of a '3' from the model's memory.
 
 ## 🏗️ How The Attack Works (The "Inversion")
 
